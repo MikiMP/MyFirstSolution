@@ -1,0 +1,15 @@
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\bin\Debug\net6.0\MySecondConsole.exe
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\bin\Debug\net6.0\MySecondConsole.deps.json
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\bin\Debug\net6.0\MySecondConsole.runtimeconfig.json
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\bin\Debug\net6.0\MySecondConsole.dll
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\bin\Debug\net6.0\MySecondConsole.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.csproj.AssemblyReference.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.AssemblyInfoInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.AssemblyInfo.cs
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.dll
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\refint\MySecondConsole.dll
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\MySecondConsole.genruntimeconfig.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MySecondConsole\obj\Debug\net6.0\ref\MySecondConsole.dll

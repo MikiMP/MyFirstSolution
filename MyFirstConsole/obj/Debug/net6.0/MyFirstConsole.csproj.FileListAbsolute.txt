@@ -1,0 +1,15 @@
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\bin\Debug\net6.0\MyFirstConsole.exe
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\bin\Debug\net6.0\MyFirstConsole.deps.json
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\bin\Debug\net6.0\MyFirstConsole.runtimeconfig.json
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\bin\Debug\net6.0\MyFirstConsole.dll
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\bin\Debug\net6.0\MyFirstConsole.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.csproj.AssemblyReference.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.AssemblyInfoInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.AssemblyInfo.cs
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.dll
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\refint\MyFirstConsole.dll
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.pdb
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\MyFirstConsole.genruntimeconfig.cache
+C:\Users\HP ProBook\Desktop\MP\С#\MyFirstSolution\MyFirstConsole\obj\Debug\net6.0\ref\MyFirstConsole.dll
